@@ -1,0 +1,30 @@
+#dark-mode-btn {
+    background-color: pink;
+    font-size: 30px;
+    padding: 15px;
+    /* padding - increase space inside button */ 
+    
+}
+
+h1{
+    color:orange;
+}
+
+.info{
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.opinion{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.dark{
+    background-color: black;
+    color:white;
+}
+
+.dark #dark-mode-btn {
+    background-color: white;
+}
